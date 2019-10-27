@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/khanzohan/RoboFriendss/static/css/main.354f3c03.chunk.css",
+    "main.js": "/khanzohan/RoboFriendss/static/js/main.5429c75b.chunk.js",
+    "main.js.map": "/khanzohan/RoboFriendss/static/js/main.5429c75b.chunk.js.map",
+    "runtime-main.js": "/khanzohan/RoboFriendss/static/js/runtime-main.e0d88648.js",
+    "runtime-main.js.map": "/khanzohan/RoboFriendss/static/js/runtime-main.e0d88648.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/khanzohan/RoboFriendss/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.eb08a8a6.chunk.js": "/khanzohan/RoboFriendss/static/js/2.eb08a8a6.chunk.js",
+    "static/js/2.eb08a8a6.chunk.js.map": "/khanzohan/RoboFriendss/static/js/2.eb08a8a6.chunk.js.map",
+    "index.html": "/khanzohan/RoboFriendss/index.html",
+    "precache-manifest.12da2b4018bab27b43585403fe1736fc.js": "/khanzohan/RoboFriendss/precache-manifest.12da2b4018bab27b43585403fe1736fc.js",
+    "service-worker.js": "/khanzohan/RoboFriendss/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/khanzohan/RoboFriendss/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.354f3c03.chunk.css.map": "/khanzohan/RoboFriendss/static/css/main.354f3c03.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0d88648.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.eb08a8a6.chunk.js",
+    "static/css/main.354f3c03.chunk.css",
+    "static/js/main.5429c75b.chunk.js"
+  ]
+}
